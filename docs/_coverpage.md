@@ -7,7 +7,7 @@
 ![微信公众号](https://img.shields.io/badge/微信公众号-孙白胖-yellowgreen.svg)
 
 
-[GitHub](https://github.com/SuperGilrSunBaiPang) [开始阅读](# 我是谁)
+[GitHub](https://github.com/SuperGilrSunBaiPang) [开始阅读](#我是谁)
 
 
 
